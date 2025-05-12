@@ -15,4 +15,4 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
-![snake gif](https://github.com/diegorebua/diegorebua/blob/output/github-contribution-grid-snake-dark.gif)
+![snake gif](https://github.com/diegorebua/diegorebua/blob/output/github-contribution-grid-snake.gif)
