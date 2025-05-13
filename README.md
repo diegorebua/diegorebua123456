@@ -5,8 +5,8 @@ Me chamo Diego Rebuá, tenho 23 anos e sou estudante de Tecnologia da Informaç�
 ---
 
 ### 📊 Status
-![Diego Rebuá's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorebua&show_icons=true&theme=transparent)
-![Diego Rebuá's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorebua&layout=compact&theme=transparent)
+![Diego Rebuá's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorebua&show_icons=true&theme=transparent&cache_seconds)
+![Diego Rebuá's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorebua&layout=compact&theme=transparent&cache_seconds)
 
 ---
 
